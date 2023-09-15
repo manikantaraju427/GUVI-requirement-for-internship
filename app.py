@@ -9,4 +9,3 @@ def hello():
 if __name__ == '__main__':
     # Listen on all available network interfaces and port 5000
     app.run(host='0.0.0.0', port=5000)
-
