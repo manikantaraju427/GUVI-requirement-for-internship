@@ -67,7 +67,7 @@ successfully running state .
 (http://3.81.161.151:5000)
 application running state
 
-###step 2 : log In to GitHub:
+### step 2 : log In to GitHub:
 
 Created a New Repository: 
 GUVI-requirement-for-internship
