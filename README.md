@@ -17,7 +17,7 @@ need Python and Flask-
 
 #installed Flask using pip : 
 
-$pip install Flask
+$sudo apt install python3-pip
 
 #phython 3 installtion
 
