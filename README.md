@@ -1,14 +1,8 @@
 ### docker hub:
-manikantaraju/guvi-intern
-
-above my docker-hub-username/repository-name
-
-
-
-
-
+manikantaraju/guvi-intern ( my docker-hub-username/repository-name)
 
 # GUVI-requirement-for-internship
+
 created a simple Python Flask web application.
 
 Install Necessary Tools:
@@ -29,14 +23,16 @@ $python3 --version
 
 phython 3 is installed
 
-
 #Created  a Directory for my project and navigate into:
 
 $mkdir my-web-app
+
 $cd my-web-app
 
 ### step 1 :
+
 Create the Web Application:
+
 Created a Python file 
 
 $vi app.py
